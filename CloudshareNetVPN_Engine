@@ -1,1 +1,6 @@
-ewogIkpzb25WZXJzaW9uIjogIjIxIiwKICJDaG9vc2VSYXdTaXRlIjogIkdpdGh1YiIsCiAiR2l0aHViVXNlciI6ICJuZXRoc3RpbGxsZWFybmluZyIsCiAiR2l0aHViUmVwbyI6ICJOUEhOZXR3b3JrIiwKICJHaXRodWJSZXBvUGF0aCI6ICJqbHluZXRoIiwKICJHaXRodWJSZXBvRmlsZSI6ICJjbG91ZC5qc29uIiwKICJUZWFtS2lkbGF0SUQiOiAiIgp9
+{
+ "Version": 7,
+ "AdminRawLink": "https:\/\/raw.githubusercontent.com\/nethstilllearning\/NPHNetwork\/jlyneth\/cloud.json",
+ "CoAdmin01RawLink": "https:\/\/raw.githubusercontent.com\/nethstilllearning\/NPHNetwork\/jlyneth\/CoOwner.json",
+ "CoAdmin02RawLink": "https:\/\/raw.githubusercontent.com\/nethstilllearning\/NPHNetwork\/jlyneth\/CoOwner2.json"
+}
